@@ -1,0 +1,8 @@
+### Environment Variables ###
+.env
+
+### Docker (Compose) ###
+docker-compose.yml
+
+### VS Code ###
+.vscode
